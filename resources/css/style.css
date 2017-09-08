@@ -4,6 +4,18 @@ body {
     background-color: white;
     color: black
     }
+h2 {
+      font-size: 32px;
+      font-weight: bold;
+    }
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
 .title {
   font-weight: bold;
   font-size: 70px;
@@ -17,5 +29,21 @@ body {
 }
 #title2 {
   font-weight: bold;
-  font-size: 18x;
-  color: red;
+  font-size: 18px;
+  color: white;
+}
+.bottom {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+#design {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+  background-position: center;
+  height: 30px;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
